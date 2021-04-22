@@ -18,7 +18,7 @@
         android:id="@+id/number"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="150dp"
+        android:layout_margin="100dp"
         android:text="@string/number_text"
         android:textColor="@color/black"
         android:textSize="50sp"
